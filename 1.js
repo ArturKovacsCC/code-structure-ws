@@ -166,6 +166,7 @@
 
 // Task 5
 // In the global scope, write code that prints the double of the
-// first 10 integers. Use the `double` function for the solution.
+// numbers from the following array.
+// Use the `double` function for the solution.
 // Try to write this in the smallest amount of code possible.
-
+const numbers = [-3, 4, 9, 14];
